@@ -1,0 +1,7 @@
+categoria,ventas
+Tecnologia,1200
+Ropa,800
+Tecnologia,600
+Alimentos,400
+Ropa,300
+Alimentos,700
